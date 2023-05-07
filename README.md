@@ -2,7 +2,7 @@
 
 🍊 I'm a rising junior at Syracuse University majoring in Information Managment & Technology.
 
-Skills: 
+👨‍💻 Skills: 
   - HTML
   - CSS
   - JavaScript
